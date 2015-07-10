@@ -2,4 +2,4 @@
 The best OSX terminal theme
 
 # Instructions
-## Download and run directly to install.
+#### Download and run directly to install.
